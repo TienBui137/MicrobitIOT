@@ -1,5 +1,5 @@
 {
-    "name": "MyExtension",
+    "name": "Microbit IOT",
     "description": "",
     "dependencies": {
         "core": "*",
